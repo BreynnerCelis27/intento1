@@ -16,8 +16,9 @@
 '''Clases y funciones'''
 
 class nose:
-    def __init__(self, name)
+    def __init__(self, name,color)
     self.name=name
+    self.color=color
 class Caneca:
     def __init__(self, color, tamaño, modelo, precio, material):
         self.color = color
